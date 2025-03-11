@@ -3,7 +3,7 @@
 PROJECT NAME: The game name
 
 BY: Bench Gamers
-MEMBERS: Khaan (2507631), Tyler (2511229) Levy (2507092), Gabi (2504985) (List of Members + Candidate Numbers) 
+MEMBERS: Khaan (2507631), Tyler (2511229) Levy (2507092), Gabi (2504985)
 
 LINK TO GITHUB REPO: [Link here](https://github.com/mistrk7/2507631-2504985-2511229-2507092-ma1805-final-project)  
 LINK TO GITHUB PAGES: ****TODO LATER****
