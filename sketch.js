@@ -1,5 +1,16 @@
+class player{
+  constructor(){
+    this.x = 100;
+    this.y = 100;
+    this.size = 10;
+  }
+
+
+}
+
+
 function setup() {
-  createCanvas(640, 480);
+  createCanvas(672, 672);
 }
 
 function draw() {
