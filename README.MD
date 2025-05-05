@@ -14,8 +14,12 @@
 ### [LINK TO GITHUB PAGES](https://mistrk7.github.io/2507631-2504985-2511229-2507092-ma1805-final-project/)
 
 #### **OVERVIEW OF PROJECT:**  
-Describe your project in a few sentences. What is it about? What are its key technical features? 
-What are its key themes, aesthetics, etc.
+
+“[britan] is a land of snobbery and privilege, ruled largely by the old and silly” – George Orwell
+
+BRIT of the CASTLE is a singeplayer tower-defence game set with an underlying theme of british politics and power conflict. You play as Mr. Richards, who is a rich old man who doesn't like to share the large benefits he has earnt for himself over the years. He likes his money and a large home for shelter. From his perspective, the "youngins" are invaders who come in a wave-like fashion to try and invade his humble abode, and it is his job to fend against what he thinks is rightfully his. These "youngins" do not think he deserves to horde all his wealth. They want the rich to be taxed, and despite appearing as 'hostile' only want his benefit to be shared across the land for the newer generations to enjoy! So, which side are you on? You don't have a choice.
+
+Build defences, sap youngins, and defend against what's rightfully yours! 
 
 #### **INDIVIDUAL CONTRIBUTION**
 Each team members should write a detailed explanation of their individual contribution to the project.
@@ -28,28 +32,15 @@ practical possibilities within the time and technical constraints is a key skill
 detailed and clear, and include *any* contribution you made to the project.
 
 #### **THEMES**
-Our main theme will be based around Tower Defence in a Papercraft style. We have a sort of British political theme going on where the tower is an old mans mansion and the enemies are young teenagers who want to share his wealth together.
-
-Discuss the main themes of your PROJECT and how you approached communicating them through the project. 
-Remember: the module is called 'coding for the arts', so think about how you approached expressing 
-your ideas through the technical aspects of the project!
+Our main theme will be based around Tower Defence in a Papercraft style. We have a sort of British political theme going on where the tower is an old mans mansion and the enemies are young teenagers who want to share his wealth together. The theme is masked over the style of setting, being in a fantasy world. The player is implied to feel bad about their actions over the facade of a fun video game. 
 
 #### **DESIGN**
-Discuss the overall mechanical aspects of the project. Think about how it connects with your themes
-above if you did not already cover it there. You should also discuss how your design was informed by your
-understanding of the technical systems that you were taught in class (and particular those required by
-the assessment brief).
+The design of the project is largely inspired by tower-defence games like Plants VS Zombies or Bloons TD, except the enemies are set to attack from all around you. You have a tower to defend in the middle of the playing field. You defend by knocking enemies back and building defences against them. 
+
+The design was informed by our understanding of the technical systems we learnt in class, as it uses Javascripts Class and Objects systems and inheritance to make sure the game was designed with modularity and efficency in mind. The Player character plays a big role, including player states and an inventory to interact with the game. We also used the Tile system Hugh taught us, but instead of designing the map around it, we only use it to place weapons and traps throughout the map. 
 
 #### **AESTHETIC DIMENSIONS**
-As a group, how did you ensure parity between the aesthetic, technical and thematic demands of the
-project? Again, think about how your artistic and/or aesthetic choices were informed by your understanding
-of the technical systems of the project.
+As a group, we ensured parity between the aesthetic, technical and thematic demands of the project by working as we went along. We had big ideas for what we wanted to make, and ensured that they were technically able to implemented by scrapping some things that didn't work, and narrowing things down as we worked closer with the code and gameplay. The fantasy setting is a direct leftover of one of our inspirations originally coming from Shrek, as this was one of our original inspirations when visualising the technical gameplay and characters. 
 
 #### **UNREALISED ASPECTS OF PROJECT**
-Discuss here any aspects of the project you would have included if you had more time. Think about technical
-issues you had and how you might go about trying to fix them (or how you'd start the research process) if
-time and scope allowed. What other mechanics or ideas would you have implemented with more time? How would you
-have gone about implementing these?  
-
-You may include more titles and text if you desire beyond the above titles if you want. Put them here at the bottom.
-You may, for instance, want to include a narrative section if story is particularly important to your project.
+The game isn't as long as we wanted it to be. We wanted to add many more levels to the game with different variations of enemies and allies, however we were restrictied for time and technical ability as it required a lot more art and coding to achieve. If we were to add this, we would have probably started with the art from Levi, then we would get sounds from Tyler and additional background assets from Gabi to put it all together as we did with the first part of the project. We also didn't go for adding any more powerups or items because we realised those would be too hard to code in terms of the affects they would give, adn the cariation of said effects. 
