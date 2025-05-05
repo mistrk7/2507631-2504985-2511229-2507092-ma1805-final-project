@@ -79,6 +79,7 @@ function preload() {
 
 function setup() {
   createCanvas(672, 672);
+  // hey
 }
 
 function draw() {
