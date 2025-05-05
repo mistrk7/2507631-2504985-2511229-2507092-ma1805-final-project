@@ -22,6 +22,14 @@ BRIT of the CASTLE is a singeplayer tower-defence game set with an underlying th
 Build defences, sap youngins, and defend against what's rightfully yours! 
 
 #### **INDIVIDUAL CONTRIBUTION**
+Khaan:
+
+Gabi:
+
+Levi:
+
+Tyler:
+
 Each team members should write a detailed explanation of their individual contribution to the project.
 Be specific: 50% of your mark will be based on your individual contributions, so your marker needs to
 know exactly what you contributed. Explain your process and how you went about it. What research did
