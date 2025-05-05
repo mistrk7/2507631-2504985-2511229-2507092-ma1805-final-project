@@ -28,7 +28,7 @@ practical possibilities within the time and technical constraints is a key skill
 detailed and clear, and include *any* contribution you made to the project.
 
 #### **THEMES**
-Our main theme will be based around Tower Defence in a Papercraft style. We communicate this through the project by taking inspiration from elements like paperclips and stationery items to create elements in our world. *TBC* 
+Our main theme will be based around Tower Defence in a Papercraft style. We have a sort of British political theme going on where the tower is an old mans mansion and the enemies are young teenagers who want to share his wealth together.
 
 Discuss the main themes of your PROJECT and how you approached communicating them through the project. 
 Remember: the module is called 'coding for the arts', so think about how you approached expressing 
