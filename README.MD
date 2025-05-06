@@ -23,6 +23,7 @@ Build defences, sap youngins, and defend against what's rightfully yours!
 
 #### **INDIVIDUAL CONTRIBUTION**
 Khaan:
+My role was to implement the teams ideas and program everything into the game. I made sure that the elements, sprites and characters were implemented in the way we had discussed. I also helped come up with the ideas for the plot and game name. One of the biggest challenges to me when creating this game was having to learn more about game development from scratch. I have previously used game engines to help me create a game, so not having to rely on any graphical user interfaces to help me with designing the world to implement animation and movement was a huge challenge that I have had to overcome. I'd also realised that due to time constraints and programming difficulties I had to cut a lot of things out of our original plans, such as power-ups and multiple levels. This was fustrating but ultimately led to us figuring out how we could make the most out of the elements that we already had. In the end, I feel really proud and confident of my contributions. If I were to do this again I think I would be a lot faster thanks to all the things I have learnt, and have given myself more time with the group to bounce ideas off each other more often!    
 
 Gabi:
 
