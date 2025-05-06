@@ -26,7 +26,15 @@ Khaan:
 
 Gabi:
 
-Levi:
+Levy:
+Contribution Overview
+- Developed character concepts, from sketches to design, aligning with the Papercraft theme.
+- Explored various color palettes, paper textures, and 2D cut-out aesthetics to create a consistent and playful visual tone
+- Ensured all characters were visually distinct yet cohesive, maintaining thematic unity while introducing unique traits.
+- Research on animation techniques and visual styles not commonly used in previous projects
+- Created original animations, tailored specifically to our game world.
+- Integrated political elements into the design, inspired by suggestions from Hugh.
+One of the most difficult aspects was maintaining the Papercraft theme while designing unique, expressive characters. I have to balance creative freedom with team consistency required frequent iteration and collaboration with developers and map designers
 
 Tyler:
 
