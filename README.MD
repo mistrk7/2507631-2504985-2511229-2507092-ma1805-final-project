@@ -34,6 +34,7 @@ Contribution Overview
 - Research on animation techniques and visual styles not commonly used in previous projects
 - Created original animations, tailored specifically to our game world.
 - Integrated political elements into the design, inspired by suggestions from Hugh.
+
 One of the most difficult aspects was maintaining the Papercraft theme while designing unique, expressive characters. I have to balance creative freedom with team consistency required frequent iteration and collaboration with developers and map designers
 
 Tyler:
