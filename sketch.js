@@ -15,6 +15,7 @@ class Entity {
 
 class Player extends Entity {
   constructor(sprite, x, y, size) {
+    // super: inherits the properties from the main class.  
     super(sprite, x, y, size);
     this.dirX = 0;
     this.dirY = 0;
@@ -22,38 +23,36 @@ class Player extends Entity {
   }
 
   // check if a player is pressing one of the WSAD keys
-  // set two variables to either 1 or -1 depending on which direction of the key held down.
-  update(){
+  // set two variables to 1 or -1. on which direction of the key held down.
+  update() {
     let up = 87;
     let down = 83;
     let left = 65;
     let right = 68;
 
-    this.isMoving = false
-    if (!this.isMoving){
-      this.isMoving = true;
-      
-      if (keyIsDown(up)){
-        this.dirY = -1;
-        this.dirX = 0;
-      }
-      if (keyIsDown(down)){
-        this.dirY = 1;
-        this.dirX = 0;
-      }
-      if (keyIsDown(left)){
-        this.dirX = -1;
-        this.dirY = 0;
-      }
-      if (keyIsDown(right)){
-        this.dirX = 1;
-        this.dirY = 0;
-      }
+    this.dirX = 0;
+    this.dirY = 0;
+
+    if (keyIsDown(up)) {
+      this.dirY = -1;
     }
+    if (keyIsDown(down)) {
+      this.dirY = 1;
+    }
+    if (keyIsDown(left)) {
+      this.dirX = -1;
+    }
+    if (keyIsDown(right)) {
+      this.dirX = 1;
+    }
+
     // move the player using defined directions
     if (this.dirX !== 0 || this.dirY !== 0) {
       this.x += this.dirX * 3; // speed
       this.y += this.dirY * 3;
+      this.isMoving = true;
+    } else {
+      this.isMoving = false;
     }
   }
 }
