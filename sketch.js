@@ -152,7 +152,7 @@ function preload() {
   coinSprite = loadImage("images/coin/coin_falling.png");
 
   coinSound = loadSound("sounds/coins_jingling.mp3");
-  shootSound = loadSound("sounds/plop_Shooting.mp3");
+  shootSound = loadSound("sounds/plop_shooting.mp3");
   walkSound = loadSound("sounds/walking_1.mp3");
 }
 
