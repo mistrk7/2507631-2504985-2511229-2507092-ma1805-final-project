@@ -176,7 +176,7 @@ function draw() {
         "They say it’s all part of change, but it feels more like\n" +
         "we’ve been pushed aside.\n\n" +
         "Sometimes I wonder if we’re the last ones left actually\n" +
-        "fighting for this place. BREXIT MEANS EXIT!",
+        "fighting for this place.",
         width / 2,
         height / 2 - 60
     );
