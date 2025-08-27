@@ -1,8 +1,11 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fafafa;
 }
 
 canvas {
   display: block;
+  margin: auto;
+  border: 2px solid black;
 }
