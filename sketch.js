@@ -132,7 +132,7 @@ let level = 1;
 let spriteTimer = 0;
 
 function preload() {
-  bg1 = loadImage("images/background/blackandwhitebg.JPEG");
+  bg1 = loadImage("images/background/blackandwhitebg.jpeg");
   bg2 = loadImage("images/background/colorbg.jpeg");
 
   
