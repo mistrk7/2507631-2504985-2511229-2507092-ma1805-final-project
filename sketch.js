@@ -151,9 +151,9 @@ function preload() {
 
   coinSprite = loadImage("images/coin/coin_falling.png");
 
-  coinSound = loadSound("sounds/Coins jingling.mp3");
-  shootSound = loadSound("sounds/Plop Shooting .mp3");
-  walkSound = loadSound("sounds/Walking 1.mp3");
+  coinSound = loadSound("sounds/Coins_jingling.mp3");
+  shootSound = loadSound("sounds/Plop_Shooting.mp3");
+  walkSound = loadSound("sounds/Walking_1.mp3");
 }
 
 function setup() {
